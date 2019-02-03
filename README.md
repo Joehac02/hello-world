@@ -1,6 +1,3 @@
 # hello-world
-Just to test and learn how GitHub actually works
 
-##Edits have been made for this project. 
-
-My name is Joseph Ryan and I am literally the worst programer you've ever seen. 
+What is a hello? A simple greeting and declaration of existence. Huh. Im 16 and this is deep bro.
